@@ -1,3 +1,69 @@
+# TBA - 20xx-xx-xx
+
+* fixed
+    * swzz.xyz
+* added
+    * ai18.pics
+    * blogbux.net
+    * cnpics.org
+    * cnxx.me
+    * cosplay18.pics
+    * go.bitcosite.com
+    * icerik.site
+    * icutlink.com
+    * idol69.net
+    * imgblaze.net
+    * lnk2.cc
+    * ovabee.com
+    * porn4f.com
+    * techtrendmakers.com
+    * tutwuri.id
+    * zegtrends.com
+* retired
+    * 46.166.167.16
+    * 4fun.tw
+    * ad4.fr
+    * ah-informatique.com
+    * al.ly
+    * atu.ca
+    * bild.me
+    * clickthru.ca
+    * cshort.org
+    * easyurl.net
+    * filoops.info
+    * gkurl.us
+    * go.linksop.com
+    * goshrink.com
+    * gsmzone.site
+    * imgtorrnt.in
+    * jnw0.com
+    * leechall.download
+    * link.tl
+    * linkdecode.com
+    * linkplugapp.com
+    * mirrorace.com
+    * mirrorace.org
+    * mirrorfilehost.com
+    * p0xpicmoney.ru
+    * piccash.net
+    * picexposed.com
+    * picker-click.ru
+    * pics-money.ru
+    * pucuk.xyz
+    * readthis.ca
+    * redirects.ca
+    * semprot.com
+    * sub2unlock.com
+    * surfsees.com
+    * techfunda.net
+    * u.to
+    * url.ie
+    * ux9.de
+    * videogamesblogger.com
+    * viid.me
+    * wiid.me
+    * yvmedia.my.id
+
 # v7.23.0 - 2023-11-21
 
 * fixed

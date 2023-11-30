@@ -1,9 +1,10 @@
 _.register({
   rule: {
-    host: /^url\.ie$/,
+    host: /^getthot\.com$/,
   },
   async ready () {
-    const a = $('a[title="Link to original URL"]');
+    await _.wait(12000);
+    const a = $('.skip-btn');
     await $.openLink(a.href);
   },
 });

@@ -3,18 +3,21 @@ _.register({
     host: /^linksly\.co$/,
   },
   async ready () {
-    const b = $('.btn.btn-primary');
+    const b = $('.btn-primary');
     b.click();
   },
 });
 
 _.register({
   rule: {
-    host: /^go\.linksly\.co$/,
+    host: [
+      /^go\.linksly\.co$/,
+      /^go\.bitcosite\.com$/,
+    ],
   },
   async ready () {
-    await _.wait(6000);
-    const a = $('a[class="btn btn-success btn-lg get-link"]');
+    await _.wait(8000);
+    const a = $('.btn-success.btn-lg.get-link');
     await $.openLink(a.href);
   },
 });
